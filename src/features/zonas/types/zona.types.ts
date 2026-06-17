@@ -1,0 +1,1 @@
+/* Define la entidad principal del negocio*/

@@ -1,0 +1,1 @@
+/*Define una figura formada por puntos*/
